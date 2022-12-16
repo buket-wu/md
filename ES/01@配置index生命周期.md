@@ -1,24 +1,23 @@
 # kibana设置index自动删除策略
 
 1. #### 创建**Index Lifecycle Policies**
-
-   - 关闭滚动更新
-     - ![img](https://qh1cftpq20.feishu.cn/space/api/box/stream/download/asynccode/?code=NWFkZWE1NzJjYTZkMGRiMTM3NjJmYTc0YmQ3ZjcyMmVfWTJQVENzc2Ewd2Ezb0NFc1lXMFRQTzZnR1JLUzNYNnBfVG9rZW46Ym94Y25UUEVCaXhwa3ZwV0hqckFxU3FKckJlXzE2NzExNjExODU6MTY3MTE2NDc4NV9WNA)
-   - 开始自动删除功能
-
-   ![img](https://qh1cftpq20.feishu.cn/space/api/box/stream/download/asynccode/?code=N2ViMjM2NGE5ZWM3MDFjMzIzNTI2NGQ4OTE0YjM0ODNfbGtsNTgyMEJqSEYzbGRmRmhxcHBuVDZSUUhRbExQZ1NfVG9rZW46Ym94Y25sTFBEWkQ2WnR0R2RRY1JHZ0ZpR2RkXzE2NzExNjExODU6MTY3MTE2NDc4NV9WNA)
-
+   - 关闭滚动更新:
+   
+     ![img](../img/Snipaste_2022-12-16_14-18-37.png)
+   - 开始自动删除功能:
+   
+     ![img](../img/Snipaste_2022-12-16_14-20-33.png)
    -  设置存活时间
-
-   ![img](https://qh1cftpq20.feishu.cn/space/api/box/stream/download/asynccode/?code=YjZjNmMyMjMzNDg5NzVlMzAwN2IyMTQ3OWZlZTMwMWRfRTZ5Zk1wODkybUxNRWc5b1hZQ01NblNEVmxVc1RjZERfVG9rZW46Ym94Y25QUHNNZ1U3cXpSYXJWNjdraWc2dFljXzE2NzExNjExODU6MTY3MTE2NDc4NV9WNA)
+   
+     ![img](../img/Snipaste_2022-12-16_14-21-37.png)
 
 1. #### 创建索引模版
-
    - 输入名字，及索引关键字
-     - ![img](https://qh1cftpq20.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmExNWE5M2ExMDZmMTkxYzBiODQ3OTEwYTFkNDQ4NjhfaWw1elJOTEZqVGl4SWgyRklVSVBDMGhtM3lvM0pTOGdfVG9rZW46Ym94Y245Z1hjOXRxSUV6MlBOdHpNVGhFdTI3XzE2NzExNjExODU6MTY3MTE2NDc4NV9WNA)
+   
+     ![img](../img/Snipaste_2022-12-16_14-23-04.png)
    - 第二步可查看设置模版
-
-   ![img](https://qh1cftpq20.feishu.cn/space/api/box/stream/download/asynccode/?code=YWQ2YzI0NDlhODZlZjJhZTg1MWQwMjdjNGM2ZDBjNTNfdkRZTGtZSHFFOTY3SkVuSGg2Q1pURTYzaFQyeFZ0VFlfVG9rZW46Ym94Y251a243NFhldEY2R2JWbmdUb2pBa0VmXzE2NzExNjExODU6MTY3MTE2NDc4NV9WNA)
+   
+     ![img](../img/Snipaste_2022-12-16_14-23-42.png)
 
    - 第三步填写设置
 
