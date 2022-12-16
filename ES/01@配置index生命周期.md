@@ -34,7 +34,7 @@
        // 默认查询字段
        "query": {
          "default_field": [
-           "*"
+           "trace","content","sql"
          ]
        }
      }
